@@ -1,0 +1,375 @@
+Creating a Highly Configurable, Scalable Cloud Test Bed Using Nimbus and Phantom
+Short Course on Algorithmic Differentiation
+Running SWAT model on the cloud
+ILS-Z604 Big Data Analytics for Web and Text - SP14 Group #2
+Scaling up computational biology applications
+Apache Storm and Samza
+Use of ILP for cancer driver prioritization
+Experimental Testbed for MOOC Support
+Evaluating ScaleMP virtual shared memory architecture for use in HPC
+Spring 2014 CSCI-B649 Cloud Computing MOOC for residential and online students
+Enhancing Usage of cloud Infrastructure
+The evolution of microbial symbionts and their biosynthetic pathways through shotgun metagenomics
+Investigation on Network Performance in Virtual Machine Based Cloud Environments
+Use Hadoop to find popular words of open source Java codes
+Evaluation of HPC Applications on Cloud Resources
+Ensuring Data Security and Accountability for Data Sharing in the Cloud
+Information extraction from biomedical literature using text mining approaches
+Laboratory for Cosmological Data Mining
+Course: EEL-5934 Principle of Computer Systems Design Fall-13 Class Projects
+Stor Trusted P2P Storage System
+SLURM testbed
+Hydroinformatics on the Cloud
+Using Clouds to Scale GIS Applications
+Course: Topics in Parallel Computation
+Investigating the Apache Big Data Stack
+Graph/network analysis Resource manager
+Reliability Analysis using Hadoop and MapReduce
+SenseHealth: A Platform to Enable Personalized Healthcare through Context-aware Sensing and Predictive Modeling Using Sensor Streams and Electronic Medical Record Data
+Authentication of Mobile Cloud Computing
+Big Data Applications and Analytics
+The genome of a terrestrial metazoan extremophile
+Simplified Deployments of Distributed Data Architectures
+Course: Testbed for Metagenomics
+Course: Cloud and Distributed Computing
+Type Architectures and Parallel Programming Languages
+Mobile Device Computation Offloading over SocialVPNs
+Course: CIIC 8995: Mining Massive Datasets
+Characterizing Infrastructure Cloud Performance for Scientific Computing
+Forest Project
+Cloud Virtualization Environment Analysis towards High Performance Storage Solutions
+Optimize rapid deployment and updating of VM images at the remote compute cluster
+Course: Fall 2013 P434 Distributed Systems Undergraduate Course
+Testing of Network Facing Services for the Open Science Grid
+Course: Applied Cyberinfrastructure concepts
+Course: EEL6871 Autonomic Computing
+Course: Cloud Computing and Storage (UF)
+Streaming in the Clouds
+Testing MPI_Barrier Optimized with NetFGPA against Mellanox Core-Direct
+XSEDE Software Development and Integration Testing
+Course: UoIceland Teaching
+NRAO: Run CASA pipeline using XCG (including FG resources)
+IPython pipelines for training life sciences researchers on NGS data analysis
+A scalable matrix-based framework for social dynamics learning
+Course: Data Center Scale Computing Class
+Global Sensitivity Analysis in Non-premixed Counterflow Flames
+Likelihood Ratio Tests for Cointegration, Cobreaking and Cotrending
+Inference on Market Power in Markets with Multiple Equilibria
+Software as a Service Framework to Execute Scientific Applications in Federated Environments
+Performance evaluation and improvement on NoSQL systems
+Scalable Framework for Agent-Based Computing
+MapReduce Scheduling in Cloud Environments
+salsaDPI: a dynamic provisioning interface for public/ private IaaS cloud
+Course: Example Course On Advanced Cloud Computing
+Exploring map/reduce frameworks for users of traditional HPC
+The iPlant Foundation API
+FutureGrid CompatibleOne Appliance
+Course: Parallel Computing
+Research: Parallel Computing for Machine Learning
+Hadoop built on Apache Mesos layer
+REU: FutureGrid Introduction
+Content-based Histopathology Image Retrieval using a CometCloud-based infrastructure
+Tutorial on Cloud Computing and Software-defined Networking
+Legislator Ideology Scores for Divided Government Project
+Intrusion Detection and Prevention for Infrastructure as a Service Cloud Computing System
+Elastic Site - Using Clouds to Elastically Extend Site Resources
+Dynamic Modelling and Artificial Intelligence in Study of Conflicts and Reconstruction
+Simulation of Partition-resilient Overlay Peer-to-Peer Networks
+Semantic Validation
+Biosimulation test using GPUs
+BioCreative shared task
+Biomedical Natural Language Processing
+R&D on FRIB on-line fast lattice optimizer using cloud technique
+Parallel Clustering on GPU's
+SSD performance benchmarking
+GlideinWMS
+Morphomics
+Course: High Performance Computing Class
+Course: Cloud Computing Class - third edition
+Biome representational in silico karyotyping
+User-friendly tools to play with cloud platforms
+HyFlowTM
+Sensor-Rocks: A novel integrated framework to improve software Operations and Management (O&M) and power management in environmental observing systems
+HPC Web Server
+OpenStack Familiarization for TACC
+Eucalyptus and Openstack
+intercloud
+Cloud SE POC
+Course: Computational Techniques for Large-Scale Data Analysis (CSE 491/891)
+Bundles: Distributed Cloud Resources
+Twister fault tolerance
+D-SnapSim Experiments
+Understanding Fluid Flow in Microchannels using a CometCloud-based Federated HPC infrastructure
+Course: Advanced Networking class University of Colorado
+compatibleone
+Pluggable Event Architecture for Cloud Environments
+FRIEDA: Flexible Robust Intelligent Elastic Data Management
+Network Aware Task Scheduling in Hadoop
+Scalability, Verification, and Validation Test of Scientific Applications and Related Utilities
+Teefaa: Framework for Bare-Metal Provisioning integrated with Cloud Infrastructure
+Predicting economic activities using social media
+Future Testbeds
+Course: Distributed Computing
+Big Data Analytics for GatorCloud
+Benchmarking the cloud
+Federating HPC, Cyberinfrastructure and Clouds using CometCloud
+Query and analysis of provenance using Mapreduce
+Cloud-enabled Subsurface Modeling
+Class Assignment: Map Reduce Comparison
+Dynamic Scheduling and Load Balancing for Monte Carlo based Radiotherapy Simulations
+Coastal-Ocean Simulation in Southeast Asia
+Course: Mastering OpenStack
+Twister Collective Iterative MapReduce Development
+Course (1 day): K12 Introduction High Performance and Cloud Computing
+Digital Provenance Research
+Course: Trial run - BUS S523 Large Scale Data Analysis
+Microbial community structure of boreal and Artic soil samples
+Sequence alignment for Phylogenetic Tree Generation on Big Data Set
+Course: P434 MapReduce Class Project
+FutureGrid Early Users
+Secure medical files sharing
+Investigation of Security on client platforms in e-health systems
+Hello MapReduce
+Course: 1st Workshop on bioKepler Tools and Its Applications
+Course: SC12 Tutorial
+Improve resource utilization in MapReduce
+Investigation of Data Locality and Fairness in MapReduce
+Performance analysis of a parallel CFD solver in cloud computing clusters
+Particle Physics Data analysis cluster for ATLAS LHC experiment
+Characterizing Performance of Infrastructure Clouds
+Information Diffusion in Online Social Networks
+QuakeSim Evaluation of FutureGrid for Cloud Computing
+Course: Fall 2012 B534 Distributed Systems Graduate Course
+Analyzing Large-scale Cancer Genomics Sequencing Data with Next Generation Sequencing (NGS) Data Analysis Tools in Hybrid Cloud
+CloudStack on Futuregrid
+Investigation of Cloud Technologies for advancement of campus research.
+Course: Cloud Computing and Storage Class
+Course: Large Scale Computing Infrastructure 2012 Master class
+Geophysical fluid dynamics education and research
+Course: Data Center Scale Computing
+Course: Applied Cyberinfrastructure concepts
+Metagenomics analysis of environmental samples
+HPC meets Clouds
+Tutorial Day 2 for Science Cloud Summer School 2012
+Course: Science Cloud Summer School 2012
+Community Comparison of Cloud frameworks
+Dynamic scalability and contention prediction in public infrastructure using Internet application profiling
+Fault management in Map-Reduce
+CCTools Scalability Testing
+CINET - A Cyber-Infrastructure for Network Science
+Testing framework for big data leveraging Cloud
+Automatic Extraction of Heterogeneous Parallelism from Array-based High-level Languages
+Optimizing Partitioned Address-space Programs for Shared Memory and Hybrid Clusters
+J2EE Infrastructure Automation
+Course: XSEDE 2012 Tutorial
+V3VEE Project
+GPU Experimentation using Delta
+Cloud Computing In Education
+Securing a Cloud platform
+Nimbus Auto Scale (Phantom)
+Budget-constrained workflow scheduler
+APE Testing for Ocean Observatories Initiative
+Course: High Performance Computing Class
+Workflow scheduling
+FutureGrid Project Challenge (Project FG-172)
+FutureGrid Project Challenge: A CLOUD COMPUTING ARCHITECTURE FOR SUPPLY CHAIN NETWORK SIMULATION
+Scaling-out CloudBLAST: Deploying Elastic MapReduce across Geographically Distributed Virtulized Resources for BLAST
+Mining Interactions between Network Community Structure and Information Diffusion
+Cloud Computing : Confidentiality and Integrity of data
+Course: Cloud Computing class - second edition
+Genomic Mapping
+Quantifying User Effort to Migrate MPI Applications
+Exploring and Cataloging Cloud Computing Security issues via FutureGrid
+Performance evaluation of cloud storage placement
+Disaster Recovery and Management using Twitter and MapReduce
+Parallelization of heterogeneous workloads for Imaging Genomic Browser
+Parallel Performance of MDS Dimension Reduction Method
+GFFS Testing for XSEDE pilot
+comparision of performance with respect to resource allocation between cloudsim and actual cloud
+Fault Tolerance of HPC systems
+Compression on GPUs
+Elastic Site
+XSEDE Campus Bridging Rocks Roll testing
+MapReduce Based Ray Tracing Class Project
+ExTENCI Testing, Validation, and Performance
+SGVO Cloud Options Working Group
+Climate Data Analytics Using MapReduce
+Efficient deadlock-free routing
+Data Semantics Aware Clouds for High Performance Analytics
+Course: UCF EEL6938 Data-intensive computing and Cloud Class
+Pegasus development and improvement platform
+Hybrid Cloud Processing of Secure Data
+Optimizing Shared Resource Contention in HPC Clusters
+Use Cloud Computing environment to develop and test bioinformatics applications
+Co-Resident Watermarking
+Course: Spring 2012 B534 Distributed systems Graduate Course
+Daphnia pulex Population Genomics
+Molecular Dynamics on Hadoop
+Intelligent Data Experiments
+GPCloud: Cloud-based Automatic Repair of Real-World Software Bugs
+STAMPEDE
+BFT protocols based on the Abstract abortable platform
+GridProphet, A workflow execution time prediction system for the Grid
+Cloud Interoperability Testbed
+RAIN: FutureGrid Dynamic provisioning Framework
+Cloud-TM
+European Middleware Initiative (EMI)
+Next Generation Sequencing in the Cloud
+Hygra-Sim: Simulation of a Decentralized protocol for Resource discovery and job Allocation in large computational grids
+Parallel watershed and hdyrodynamic models
+FutureGrid User Support
+The VIEW Project
+Advanced Networking
+Course: Distributed Scientific Computing Class
+Resource provisioning for e-Science environments
+Cloud Peer
+Evaluation of MPI Collectives for HPC Applications on Distributed Virtualized Environments
+Exploration of FutureGrid Identity Management
+Leveraging Network Flow Watermarking for Co-residency Detection in the Cloud
+XSEDE: GenesisII-Unicore6 interop testing
+Phoebus: An Integrated System for End-to-end High Performance Networking
+STS Server 2011
+JSAGA
+XSEDE Operations Group
+Karnak Prediction Service
+SC11: Using and Building Infrastructure Clouds for Science
+Metagenome analysis of benthic marine invertebrates
+Smart Federation Platform for Mobile Cloud Computing Infrastructures
+CloVR - Cloud Virtual Resource for Automated Sequence Analysis From Your Desktop
+SLASH2 Testing in a Wide Area Environment
+Cloud Computing for Software Testing and Quality Assurance
+Developing Virtual Clusters for Science Gateways and HPC Education
+Course: Cloud Computing for Data Intensive Science Class
+Course: Cloud Computing and Storage Class
+High Performance Spatial Data Warehouse over MapReduce
+Enabling Petascale Ensemble-based Data Assimilation for Numerical Analysis and Prediction of High-Impact Weather
+JGC-DataCloud-2012 paper experiments
+Hadoop Testing
+Data mining samples based on Twister
+Distributed Mapreduce
+Realtime Stream Processing
+Large scale data analytics
+Supply Chain Network Simulator Using Cloud Computing
+HBase Application and Investigation
+Optimizing Scientific Workflows on Clouds
+Google SOC 11: Using DemoGrid and Globus Online on FutureGrid
+De novo assembly of genomes and metagenomes from next generation sequencing data
+The VIEW Project
+Research Experience for Undergraduate Students in Cloud Computing
+Course: Fresno System Architecture and Cloud Computing Class
+Course: Cloud computing class
+CSULA Business Intelligence on Map/Reduce
+Course: CCGrid2011 Tutorial
+Hierachical Multidimensional Scaling process Massive Metageonomics data
+Keyword-based Semantic Association Discovery
+Workshop: A Cloud View on Computing
+Elastic Computing
+HPC Scheduling
+Collaborative Data Distribution and VM Provisioning
+Testing new paradigms for biomolecular simulation
+Cloud Computing Research at UC Riverside
+End-to-end Optimization of Data Transfer Throughput over Wide-area High-speed Networks
+FutureGrid Systems Development
+University of California (UC) Grid and Cloud Project
+PerfClusters - Analysis and Selection of Public Clusters Based on QoE (Quality of Experience)
+Annotation of High-Throughput Transcriptome Data
+Genetic Analysis of Metapopulation Processes in the Silene-Microbotryum Host-Pathogen System
+Investigation of the evolutionary origin of mitochondria by BLAST analysis
+Hunting the Higgs Boson with Matrix Element Methods
+Design space exploration with the M5 simulator
+Global Sensitivity Analysis in Non-Premixed Counterflow Flames
+Continuous Time Markov Chain Models for Threshold Exceedance
+Mixture Model Simulation with R
+Cloud-Based Support for Distributed Multiscale Applications
+UniFrame : QoS aware Service Discovery and Composition framework for Cloud
+Performance Evaluation of Data Intensive Scientific Applications
+Using Various Cloud Frameworks for Bioinformatics Application
+FutureGrid and Grid'5000 Collaboration
+Comparision of Network Emulation Methods
+SpeQulos: A Framework for QoS in Unreliable Distributed Computing Infrastructures using Cloud Resources.
+Extending local resource using Clouds
+Support multiple dimensional index in HDFS on the FutureGrid platform
+Unicore and Genesis Experimentation
+Integrated Information Services (IIS) Testing
+Cloud application monitoring experimentation and research
+Exploring HPC Fault Tolerance on the Cloud
+Parallel Analysis of EEG Data with Hadoop on FutureGrid
+I399 Bioinformatics and Cyberinfrastructure project - 1000 Genomes protein analysis
+A credit card system for Virtual machines within FutureGrid
+OpenStack on FutureGrid
+Development of an Index File System to Support Geoscience Data with Hadoop
+FG General Software Development
+Use of VMs for OSG application deployment
+Exploring VMs for Open Science Grid Services
+Course: B534 Distributed systems Graduate/Undergraduate Class
+Experiments for Science Cloud
+Cloud Security and Forensics
+Investigate provenance collection for MapReduce
+XSEDE system software testing
+Collaborative Genomic Analysis Software Development
+Storage security for Clouds
+Evaluation of using XD TAS (Technology Auditing Service) in FutureGrid
+Hadoop Evaluation
+Wide area distributed file system for MapReduce applications on FutureGrid platform
+Scalable data management for cloud services
+Parallel Performance of GTM Dimension Reduction
+Use of xray and hotel
+Investigating cloud computing as a solution for analyzing particle physics data
+Vampir
+Cost-Aware Cloud Computing
+Combining public cloud and private cloud
+Performance evaluation of MapReduce applications
+Cloud Technologies for Bioinformatics Applications
+Parallel scripting using cloud resources
+Managing an Adaptive Cloud Cache for Supporting Data-Intensive Applications
+Distributed Execution of Kepler Scientific Workflow on Future Grid
+ScaleMP Performance Evaluation
+Fine-grained Application Energy Modeling
+Inca
+EGI-InSPIRE
+Policy based distributed computing
+Advanced Technology for Sensor Clouds
+Parallel File System
+Survey of Open-Source Cloud Infrastructure using FutureGrid Testbed
+Interoperability tests between OGF HPC-BasicProfile endpoints
+Comparing Moab metascheduling to Condor and MCP (Modified Critical Path)
+Running workflows in the cloud with Pegasus
+Publish/Subscribe Messaging as a Basis for TeraGrid Information Services
+Integrating High Performance Computing in Research and Education for Simulation, Visualization and RealTime Prediction
+Metagenomics
+Biosequence Alignment Studies
+Word Sense Disambiguation for Web 2.0 Data
+Evaluation of Hadoop for IO-intensive applications
+Collaborative Research: North East Cyberinfrastructure Consortium
+Resource discovery in an asynchronous grid and cloud
+Hardware Performance Monitoring in the Clouds
+SAGA
+Development of an information service for FutureGrid
+FutureGrid - experiment harness
+PIRE: Training and Workshops in Data Intensive Computing Using The Open Science Data Cloud
+SDCI NMI Improvement: Pegasus: From Concept to Execution- - -Mapping Scientific Workflows onto the National Cyberinfrastructure
+Deploy OpenNebula on FutureGrid
+Privacy preserving gene read mapping using hybrid cloud
+FutureGrid and Tempest/Madrid/Storm Support
+Comparison of MapReduce Systems
+The Virtual Block Store system
+FutureGrid Systems Development and Prototyping
+Course: Distributed Scientific Computing Class
+Grid Appliance
+Parameter sweeps for multi-cell models on FutureGrid
+TeraGrid XD TIS(Technology Insertion Service) Technology Evaluation Laboratory
+Peer-to-peer overlay networks and applications in virtual networks and virtual clusters
+Genesis II testing
+Course: B649 Topics on Systems Graduate Cloud Computing Class
+Periodogram Workflow Running on FutureGrid Using Pegasus
+Big Data for Science Summer School July 26-30 2010
+TeraGrid QA Testing and Debugging
+Sky Computing
+Cumulus
+Differentiated Leases for Infrastructure-as-a-Service
+Bioinformatics and Clouds
+Data Analysis in the Cloud
+CFD and Workload Management Experimentation
+Experiments in Distributed Computing
+Windows and Linux performance comparison
+FuturGrid Directory Entry

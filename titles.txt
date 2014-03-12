@@ -1,0 +1,131 @@
+An OGSA-based Quality of Service Framework
+QoS Support for High-performance Scientific Grid Applications
+Analysis and Provision of QoS for Distributed Grid Applications
+The Open Grid Computing Environments collaboration: portlets and services for science gateways
+Collaboratory for Multi-scale Chemical Science
+Reputation-based Grid Resource Selection
+Abstracting the Grid
+GridAnt: A Client-Controllable Grid Workflow System
+An Abstraction Model for a Grid Execution Framework
+Quality Assured Ad Hoc Grids
+Toward an Architecture for Ad Hoc Grids
+Grid Computing for the Masses: An Overview
+Open Collaborative Grid Services Architecture (OCGSA)
+Flow-based Multistage Co-allocation Service
+Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU
+Internet Policies and Issues. Volume 7 - 2nd quarter
+Supporting Experimental Computer Science
+Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures
+FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images
+Grappling cloud infrastructure services with a generic image repository
+Accelerating Partitional Algorithms for Flow Cytometry on GPUs
+A Directory Service for Configuring High-Performance Distributed Computations
+Distance Visualization: Data Exploration on the Grid
+Contemporary HPC Architectures
+Rain: Dynamically Provisioning Clouds within FutureGrid
+Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems
+Data Analytics Driven Cyberinfrastructure Operations, Planning and Analysis Using XDMoD
+Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis
+Multi-Paradigm Communications in Java for Grid Computing
+A QoS Guided Scheduling Algorithm for the Computational Grid
+GridTorrent Framework: A High-performance Data Transfer and Data Sharing Framework for Scientific Computing
+GridTorrent Framework: A High-performance Data Transfer and Data Sharing Framework for Scientific Computing
+Cyberaide onServe: Software as a Service on Production Grids
+Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberinfrastructure
+Grid Computing: Enabling a Vision for Collaborative Research
+A Parallel Genetic Algorithm for the Graph Partitioning Problem
+An Interactive Parallel Programming Environment Applied in Atmospheric Science
+The Java CoG Kit Experiment Manager
+The Grid-Idea and Its Evolution
+Workflow Concepts of the Java CoG Kit
+A Loosely Coupled Metacomputer: Cooperating Job Submissions Across Multiple Supercomputing Sites
+Intelligent Structural Operators for the k-way Graph Partitioning Problem
+A File Transfer Component for Grids
+Toward Reputable Grids
+Grid Middleware
+Software, Component, and Service Deployment in Computational Grids
+eMOLST: a documentation flow for distributed health informatics
+Comparison of Multiple Cloud Frameworks
+A Portal for Visualizing Grid Usage
+Accelerating Time to Scientific Discovery with a Grid-Enhanced Microsoft Project
+e-Science Project and Experiment Management with Microsoft Project
+Grid Infrastructure to Support Science Portals for Large Scale Instruments
+A Java Commodity Grid Kit
+Designing Grid-based Problem Solving Environments and Portals
+CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids
+Dynamic Provisioned Experiments in FutureGrid
+Design of the FutureGrid Experiment Management Framework
+Grid Computing: Making the Global Infrastructure a Reality
+Features of the Java Commodity Grid Kit
+InfoGram: A Peer-to-Peer Information and Job Submission Service
+An Overview of Grid File Transfer Patterns and their Implementation in the Java CoG Kit
+Workflow Management Through Cobalt
+The Java CoG Kit Experiment Manager
+Grid Technologies
+Workflows for E-science: Scientific Workflows for Grids
+Commodity Grid Kits
+A Repository Service for Grid Workflow Components
+Design of an Accounting and Metric-basedcloud-shifting and Cloud-seeding Framework for Federatedclouds and Bare-metal Environments
+ Heinz"
+A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables
+Community Software Development with the Astrophysics Simulation Collaboratory
+Design Issues for the Parallelization of an Optimal Interpolation Algorithm
+Grid-based Asynchronous Migration of Execution Context in Java Virtual Machines
+A Grid Certificate Authority for Community and Ad-hoc Grids
+Real-Time Analysis, Visualization, and Steering of Microtomography Experiments at Photon Sources
+Quasi-Realtime Microtomography Experiments at Photon Sources
+Gestalt of the Grid
+JavaScript Grid Abstractions
+Cyberaide JavaScript: A JavaScript Commodity Grid Kit
+GreenIT Service Level Agreements
+GreenIT Service Level Agreements
+Simulation of Threat Management of Urban Water Distribution Systems with Grid Workflow
+Power-Aware Scheduling of Virtual Machines in DVFS-enabled Clusters
+Using Computational Grid Capabilities to Enhance the Ability of an X-Ray Source for Structural Biology
+Supercomputing Data Analysis with an Example on the APS CATs
+Experiment and Workflow Management Using Cyberaide Shell
+Cyberaide Shell: Interactive Task Management for Grids and Cyberinfrastructure
+A Grid Service Based Active Thermochemical Table Framework
+An Adaptive Cyberinfrastructure for Threat Management in Urban Water Distribution Systems
+A Perl Commodity Grid Kit
+A Collaborative Informatics Infrastructure for Multi-scale Science
+Metadata in the Collaboratory for Multi-Scale Chemical Science
+A CORBA Commodity Grid Kit
+Open Grid Computing Environments
+Key Concepts and Services of a Grid Information Service
+Extending Web Services Technologies: The Use of Multi-Agent Approaches
+Cyberaide Creative: On-Demand Cyberinfrastructure Provision in Clouds
+Active Thermochemical Tables: Thermochemistry for the 21st century
+Introduction to Active Thermochemical Tables: Several Key Enthalpies of Formation Revisited
+Further Refinements of the Bond Dissociation Energy in Water and Hydroxyl Radical Using the Active Thermochemical Tables Approach
+The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development
+The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development
+A Unicore Globus Interoperability Layer
+A Fault Detection Service for Wide Area Distributed Computations
+A Fault Detection Service for Wide Area Distributed Computations
+Grid Portal Architectures for scientific applications
+Grid Portal Architectures for Scientific Applications
+A Greedy Grid - The Grid Economic Engine Directive
+Design and Implementation of a CORBA Commodity Grid Kit
+On-demand Service Hosting on Production Grid Infrastructures
+Provide Virtual Machine Information for Grid Computing
+Thermal Aware Workload Scheduling with Backfilling for Green Data Centers
+Towards Thermal Aware Workload Scheduling in a Data Center
+Towards Energy Aware Scheduling for Precedence Constrained Parallel Tasks in a Cluster with DVFS
+Task scheduling with ANN-based temperature prediction in a data center: a simulation-based study
+Provide Virtual Distributed Environments for Grid computing on Demand
+Schedule Distributed Virtual Machines in a Service Oriented Environment
+Grid Virtualization Engine: Design, Implementation, and Evaluation
+Cloud Computing: a Perspective Study
+Virtual Data System on Distributed Virtual Machines in Computational Grids
+Multicores in Cloud Computing: Research Challenges for Applications
+A High-Throughput X-Ray Microtomography System at the Advanced Photon Source
+A Quasi-Realtime X-Ray Microtomography System at the Advanced Photon Source
+Recent Research Advances in e-Science
+Analysis of Virtualization Technologies for High Performance Computing Environments
+Providing a Green Framework for Cloud Based Data Centers
+Efficient resource management for Cloud computing environments
+Swift: Fast, Reliable, Loosely Coupled Parallel Computation
+FederatedClouds '12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit
+Grid Computing Environments 2007 Confernce Proceeedings
+Grid Computing Environments 2006 Confernce Proceeedings
