@@ -1184,6 +1184,16 @@
   timestamp = {2010.04.07}
 }
 
+@INPROCEEDINGS{kurze2011cloudfederation,
+  author = {Kurze, Tobias and Klems, Markus and Bermbach, David and Lenk, Alexander
+	and Tai, Stefan and Kunze, Marcel},
+  title = {Cloud federation},
+  booktitle = {CLOUD COMPUTING 2011, The Second International Conference on Cloud
+	Computing, GRIDs, and Virtualization},
+  year = {2011},
+  pages = {32--38}
+}
+
 @MISC{cmd3,
   author = {von Laszewski, Gregor},
   title = {Cmd3},
@@ -1196,6 +1206,7 @@
 @MISC{github-futuregrid-vc,
   author = {Gregor von Laszewski and Xiuwen Yang},
   title = {Virtual Cluster with SLURM},
+  howpublished = {Github repository},
   owner = {flat},
   timestamp = {2014.03.10},
   url = {https://github.com/futuregrid/virtual-cluster}
@@ -2331,6 +2342,11 @@
   howpublished = {[Online]},
   note = {\url{http://mage.uni-marburg.de/trac/xge}},
   key = {XGE}
+}
+
+@ARTICLE{,
+  owner = {flat},
+  timestamp = {2014.04.09}
 }
 
 @BOOKLET{amazons3-api,

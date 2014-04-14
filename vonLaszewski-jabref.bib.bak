@@ -950,6 +950,17 @@
   url = {http://cyberaide.googlecode.com/svn/trunk/papers/anl/vonLaszewski-cog-final.pdf}
 }
 
+@INBOOK{vonLaszewski-bigdata-bookchapter,
+  chapter = {{The FutureGrid Testbed for Big Data}},
+  pages = {TBD},
+  title = {TBD},
+  publisher = {TBD},
+  year = {2014},
+  editor = {Judy Qiu},
+  author = {von Laszewski, Gregor and Geoffrey Fox},
+  address = {Indiana University}
+}
+
 @MISC{last10dynamic,
   author = {von Laszewski, Gregor and Geoffrey C. Fox and von Laszewski, Gregor
 	and Geoffrey C. Fox and FutureGrid Team},
@@ -1640,31 +1651,6 @@
   url = {http://cyberaide.googlecode.com/svn/trunk/papers/anl/plale--pdcs2002.pdf}
 }
 
-@MISC{fg368,
-  author = {Judy Qiu},
-  title = {{Course: Fall 2013 P434 Distributed Systems Undergraduate Course}},
-  owner = {flat},
-  timestamp = {2014.03.03},
-  url = {https://portal.futuregrid.org/projects/368}
-}
-
-@MISC{fg405,
-  author = {Judy Qiu},
-  title = {{Spring 2014 CSCI-B649 Cloud Computing MOOC for residential and online
-	students}},
-  owner = {flat},
-  timestamp = {2014.03.03},
-  url = {https://portal.futuregrid.org/projects/405}
-}
-
-@MISC{fg298,
-  author = {Lavanya Ramakrishnan},
-  title = {{FRIEDA: Flexible Robust Intelligent Elastic Data Management}},
-  owner = {flat},
-  timestamp = {2014.03.03},
-  url = {https://portal.futuregrid.org/projects/298}
-}
-
 @INBOOK{las05-qos-book,
   chapter = {{Quality-of-Service Based Grid Communities}},
   title = {{Extending Web Services Technologies: The Use of Multi-Agent Approaches}},
@@ -2292,19 +2278,5 @@
   oldlabel = {gce06},
   pdf = {http://library.rit.edu/oajournals/index.php/gce/issue/view/10/showToc},
   url = {http://library.rit.edu/oajournals/index.php/gce/issue/view/10/showToc}
-}
-
-@MISC{www-network-impairment,
-  title = {{Network Impairments Device Spirent XGEM}},
-  year = {2012},
-  key = {impairment},
-  url = {http://www.docstoc.com/docs/96369614/Spirent-GEM-_-XGEM-Customer-Presentation}
-}
-
-@MISC{www-scalemp,
-  title = {{ScaleMP}},
-  year = {2012},
-  key = {scalemp},
-  url = {http://www.scalemp.com/}
 }
 
