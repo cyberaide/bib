@@ -2365,6 +2365,14 @@
   url = {http://www.bestpractical.com/rt/}
 }
 
+@MISC{www-starcluster,
+  title = {StarCluster},
+  howpublished = {Web Page},
+  doi = {http://star.mit.edu/cluster/},
+  owner = {flat},
+  timestamp = {2014.04.14}
+}
+
 @MISC{XGE,
   title = {XGE - Xen Grid Engine},
   howpublished = {[Online]},
